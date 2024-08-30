@@ -189,7 +189,3 @@ At this point, the product should be LIVE.
 
 ![Argon Dashboard 2 PRO - Automotive (Premium Bootstrap 5 Design).](https://user-images.githubusercontent.com/51070104/211158013-fea76b79-bb54-4066-a617-5ec3b4b6ec42.jpg)
 
-<br />
-
----
-[Django Star Admin](https://appseed.us/product/star-admin/django/) - **Django** Starter provided by **[AppSeed](https://appseed.us/)**
